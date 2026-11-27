@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Símbolo Barbearia Prime">
+  <rect width="512" height="512" rx="112" fill="#25241f"/>
+  <circle cx="256" cy="256" r="168" fill="none" stroke="#b99a67" stroke-width="7" opacity=".75"/>
+  <path d="M175 337 317 195" fill="none" stroke="#eadfc7" stroke-width="26" stroke-linecap="round"/>
+  <path d="m302 210 41-41 40 40-41 41" fill="none" stroke="#b99a67" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m154 358 21-21 27 27-21 21c-9 9-24 9-33 0s-3-19 6-27Z" fill="#b99a67"/>
+  <path d="m211 258 42 42M238 231l42 42M265 204l42 42" fill="none" stroke="#b99a67" stroke-width="9" stroke-linecap="round" opacity=".9"/>
+  <path d="M156 390h200" stroke="#eadfc7" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+</svg>
